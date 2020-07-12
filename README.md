@@ -1,1 +1,1 @@
-# suckless-builds
+# suckless-dwm
