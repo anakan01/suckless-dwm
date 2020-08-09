@@ -1,7 +1,7 @@
 # suckless-dwm
 mostly stock build of suckless.org DWM 6.2
 
-Patches:
+[Patches]
 
 Hide Unused Tags
 
@@ -12,7 +12,7 @@ fixed borders for alpha (window borders are opaque)
 Windows always fill empty space
 
 
-Changes from stock:
+[Changes from stock]
 
 super key is mod key
 
